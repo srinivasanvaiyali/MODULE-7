@@ -1,4 +1,4 @@
-# Ex.No:1
+# Ex.No:2
 # Ex.Name : Write a CPP program for Prefix To Postfix Conversion using Stack STL
 ## Date:
 ## Aim:
